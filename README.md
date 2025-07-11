@@ -63,3 +63,10 @@ Three one-sample t-tests were performed using a 95% confidence level:
 - Strengthened practical understanding of statistical modeling using **real-world biometric data**.
 
 --
+
+---
+
+## 🧠 Author
+**Mohammed Saif Wasay**  
+*Data Analytics Graduate → Northeastern University | Machine Learning Enthusiast | Passionate about turning data into insights*  
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/mohammed-saif-wasay-4b3b64199/)
